@@ -35,3 +35,6 @@ We wil enforce Clean Code at PR review:
 Learning the principles of Clean Code is an ***extremely high ROI*** investment. Followers write maintainable, testable, debuggable code that saves the company millions of dollars in dev time and reduced outages.
 
 **We recommend learning or reviewing the principles first** before jumping into serious coding.
+
+## React JS developer:
+ Please read [this document](./react_js_dev.md) before start
