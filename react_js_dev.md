@@ -1,9 +1,10 @@
 
 Hello, this documents build for help new React JS developer to familiar with Solid style.
 
+
 # Before start
 
-To start at a React Js engieer at SOLID engineer, you must strong at Javascript languages. And have having knowdledge at these
+To start at a React Js engineer at SOLID engineer, you must strong at Javascript language. And having knowledge at these things:
 
 - ES6 syntax, read more [here](https://www.w3schools.com/js/js_es6.asp)
 - React concept, read [Thinking in JS](https://reactjs.org/docs/thinking-in-react.html)
