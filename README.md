@@ -16,9 +16,9 @@ If you need a little weed, ask Dũng (Thomas) Nguyễn.
 
 # Process
 
-You will received Slack, facebook group, google driver, github invitation following you provided email, if not yet or missing any, please concat ms.Huyền (Harley) Vũ.
+You will received Slack, facebook group, google driver, github invitation following you provided email, if not yet or missing any, please contact ms.Huyền (Harley) Vũ.
 
-*Daily report* is neccessary to help yourself and your team mates to catch up your process & troubles. Just simple by answer 3 questions before:
+**Daily report** is `neccessary` to help yourself and your team mates to catch up your process & troubles. Just simple by answer 3 questions before:
   - What did you do yesterday?
   - What do you going to do today?
   - What blocked you if have?
