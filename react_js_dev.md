@@ -12,7 +12,7 @@ To start at a React Js engineer at SOLID engineer, you must strong at Javascript
 
 # Rules
 
-SOLID engineer React coding standart follow `Clean Code` of Robert C Martin & is a extended version of AirBnb React coding standart, at detail:
+SOLID engineer React coding standard follow `Clean Code` of Robert C Martin & is a extended version of AirBnb React coding standard, at detail:
 
 ## React/JSX Style Guide
 

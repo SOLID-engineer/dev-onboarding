@@ -24,7 +24,7 @@ You will received Slack, facebook group, google driver, github invitation follow
   - What blocked you if have?
 
 
-# Coding standart
+# Coding standard
 
 We wil enforce Clean Code at PR review:
 
