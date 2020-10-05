@@ -8,7 +8,7 @@ Solid Engineer is a "Technical solutions & Digital transformation" company provi
 
 If you are a front-end god, feel free to ask your direct mentor or Frontend Lead `Thuan (Wiliam) Nguyen`.
 
-If you are a front-end god, feel free to ask your direct mentor or Backend Lead `Tuyen (Kylian) Tran`.
+If you are a back-end god, feel free to ask your direct mentor or Backend Lead `Tuyen (Kylian) Tran`.
 
 If you have any questions in onboarding process, ask Thuan.
 
