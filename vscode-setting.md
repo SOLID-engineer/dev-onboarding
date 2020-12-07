@@ -21,7 +21,7 @@ Below is the configuration for VSCode. Since we are working as a **team**, the w
   "editor.smoothScrolling": true,
   "workbench.tree.indent": 16,
   "emmet.includeLanguages": {
-    javascript: "javascriptreact",
+    "javascript": "javascriptreact",
   },
   "files.associations": {
     "*.js": "javascriptreact",
