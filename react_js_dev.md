@@ -4,7 +4,7 @@ Hello, this documents build for help new React JS developer to familiar with Sol
 
 # Before start
 
-To start at a React Js engineer at SOLID engineer, you must strong at Javascript language. And having knowledge at these things:
+To start at a React Js engineer at SOLID engineer, you must have solid understanding about Javascript language. It is also welcomed if you prepare for yourself knowledge about:
 
 - ES6 syntax, read more [here](https://www.w3schools.com/js/js_es6.asp)
 - React concept, read [Thinking in JS](https://reactjs.org/docs/thinking-in-react.html)
@@ -37,6 +37,7 @@ This style guide is mostly based on the standards that are currently prevalent i
   1. [Methods](#methods)
   1. [Ordering](#ordering)
   1. [`isMounted`](#ismounted)
+  1. [VSCode Configuration](#vscode-configuration)
 
 ## Basic Rules
 
@@ -768,5 +769,8 @@ We don’t recommend using indexes for keys if the order of items may change.
   - ![tr](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Turkey.png) **Turkish**: [alioguzhan/react-style-guide](https://github.com/alioguzhan/react-style-guide)
   - ![ua](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Ukraine.png) **Ukrainian**: [ivanzusko/javascript](https://github.com/ivanzusko/javascript/tree/master/react) -->
   - ![vn](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Vietnam.png) **Vietnam**: [uetcodecamp/jsx-style-guide](https://github.com/UETCodeCamp/jsx-style-guide)
+  
+## VSCode Configuration
+  Please follow the configuration of the front-end developers [here](https://github.com/SOLID-engineer/dev-onboarding/blob/master/vscode-setting.md)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ back to top] (#table-of-contents)**
