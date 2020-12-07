@@ -10,18 +10,21 @@ If you are a front-end god, feel free to ask your direct mentor or Frontend Lead
 
 If you are a back-end god, feel free to ask your direct mentor or Backend Lead `Tuyen (Kylian) Tran`.
 
-If you have any questions in onboarding process, ask Thuan.
-
-If you need a little weed, ask Dũng (Thomas) Nguyễn.
+If you have any questions in onboarding process, please send them to Mr. Thuan or Mr. Tung as Onboarding Document Maintainer.
 
 # Process
 
-You will received Slack, facebook group, google driver, github invitation following you provided email, if not yet or missing any, please contact ms.Huyền (Harley) Vũ.
+For working purposes, Solid Engineer will provides you:
+- **01** Microsoft Teams account
+- **01** Invitation into Solid Engineer private group on Facebook
+- **01** Invitation into Solid Engineer repository on Github
 
-**Daily report** is `neccessary` to help yourself and your team mates to catch up your process & troubles. Just simple by answer 3 questions before:
+If you bump into any difficulty, please contact Ms. Huyen (Harley) Vu.
+
+**Daily report** is **neccessary** to help yourself and your team mates to catch up your process & troubles. Just simple by answer 3 questions before:
   - What did you do yesterday?
   - What do you going to do today?
-  - What blocked you if have?
+  - Which problems are blocking your working process?
 
 
 # Coding standard
