@@ -42,3 +42,4 @@ Below is the configuration for VSCode. Since we are working as a **team**, the w
   "javascript.format.enable": false,
 }
 ```
+4. Save your file changes.
