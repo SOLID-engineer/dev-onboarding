@@ -10,7 +10,7 @@ Below is the configuration for VSCode. Since we are working as a **team**, the w
 {
   "files.autoSave": "onFocusChange",
   "extensions.ignoreRecommendations": true,
-  "editor.formatOnSave": false,
+  "editor.formatOnSave": true,
   "typescript.validate.enable": false,
   "typescript.suggestionActions.enabled": false,
   "typescript.format.enable": false,
