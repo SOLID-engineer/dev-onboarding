@@ -10,6 +10,14 @@ To start at a React Js engineer at SOLID engineer, you must have solid understan
 - React concept, read [Thinking in JS](https://reactjs.org/docs/thinking-in-react.html)
 - JSX syntax, read [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
 
+# Document
+To welcome you to our team, we have prepared some special e-books for you. Solid Engineer hopes with our small presents, you can strengthen your abilities and perform your best while work here 💪
+
+- [Clean Code](https://drive.google.com/file/d/131ozrpVS3q4oNwgTnT7b6xIoYgDKaedb/view?usp=sharing)
+- [You don't know JS](https://drive.google.com/file/d/1bVV0nLGhcU7CjYMquIRasu4NZrBJfoo5/view?usp=sharing)
+- [Code dạo ký sự](https://drive.google.com/file/d/1zhsl5v1SbTKAeMsjsB2Z4c70YQaO1j5b/view?usp=sharing)
+- [The Ultimate Guide to React Native Optimization](https://drive.google.com/file/d/1RcFNctseOlYEpWz_trbof7V9zaZIk1ru/view?usp=sharing)
+
 # Rules
 
 SOLID engineer React coding standard follow `Clean Code` of Robert C Martin & is a extended version of AirBnb React coding standard, at detail:
