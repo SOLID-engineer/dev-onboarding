@@ -3,7 +3,7 @@
 Below is the configuration for VSCode. Since we are working as a **team**, the workflow needs to be unified between developers.
 
 1. Open your VSCODE
-2. Press `CMD + P` (on *MacOS*) and type `>Preferences: Open Settings (JSON)`
+2. Press `CMD + P` (on *MacOS*) or `Ctrl + P` (on *Windows*) and type `>Preferences: Open Settings (JSON)`
 3. Copy the configuration below and paste it into your setting window.
 
 ```
