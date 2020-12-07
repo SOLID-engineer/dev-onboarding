@@ -9,7 +9,6 @@ Below is the configuration for VSCode. Since we are working as a **team**, the w
 ```
 {
   "files.autoSave": "onFocusChange",
-  "eslint.autoFixOnSave": true,
   "extensions.ignoreRecommendations": true,
   "editor.formatOnSave": false,
   "typescript.validate.enable": false,
