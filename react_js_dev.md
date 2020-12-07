@@ -11,7 +11,7 @@ To start at a React Js engineer at SOLID engineer, you must have solid understan
 - JSX syntax, read [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
 
 # Document
-To welcome you to our team, we have prepared some special e-books for you. Solid Engineer hopes with our small presents, you can strengthen your abilities and perform your best while work here 💪
+To welcome you to our team, we have prepared some special e-books for you. Solid Engineer hope with our small presents, you can strengthen your abilities and perform your best while work here 💪
 
 - [Clean Code](https://drive.google.com/file/d/131ozrpVS3q4oNwgTnT7b6xIoYgDKaedb/view?usp=sharing)
 - [You don't know JS](https://drive.google.com/file/d/1bVV0nLGhcU7CjYMquIRasu4NZrBJfoo5/view?usp=sharing)
